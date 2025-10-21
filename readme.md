@@ -1,4 +1,5 @@
 # DevSecOps Pipeline Project: Deploy Netflix Clone на Proxmox
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05d9b2d6-da22-4aab-9c5c-27fc0e5ee61b" />
 
 ## Описание проекта
 
