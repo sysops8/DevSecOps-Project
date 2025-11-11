@@ -3,7 +3,7 @@
  
 ## Описание проекта
 
-Полная реализация DevSecOps пайплайна для развертывания Netflix Clone с использованием Jenkins, Kubernetes, Prometheus, Grafana и ArgoCD на домашней инфраструктуре Proxmox.
+Полная реализация DevSecOps пайплайна для развертывания Netflix Clone с использованием Jenkins, Kubernetes, Prometheus, Grafana и ArgoCD на  Proxmox гипервизоре.
 
 ## Архитектура инфраструктуры
 
